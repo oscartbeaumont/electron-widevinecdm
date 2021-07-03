@@ -1,0 +1,8 @@
+{
+  "name": "electron-widevinecdm",
+  "version": "8.0.0",
+  "description": "WidevineCDM for Electron",
+  "repository": "https://github.com/oscartbeaumont/electron-widevinecdm",
+  "author": "Quang Lam",
+  "license": "MIT"
+}
